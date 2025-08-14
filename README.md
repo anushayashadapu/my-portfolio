@@ -31,8 +31,7 @@ This project was built using the following technologies:
 
 Here is a list of some of my key projects. You can find more details and live demos by visiting the links below:
 
-### [Project Name 1]
-- ### Clothes Vendor Portal
+### 🚀Clothes Vendor Portal
 
 *Description:*
 A full-stack application designed for clothing vendors to efficiently manage their inventory, orders, and sales. The portal provides vendors with a secure and comprehensive platform to handle all aspects of their business, from product listing to order fulfillment.
