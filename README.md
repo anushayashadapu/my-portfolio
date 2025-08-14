@@ -63,11 +63,11 @@ To get a local copy up and running, follow these simple steps:
 
 ## Connect with Me
 
-* **[LinkedIn](https://www.linkedin.com/in/[your-linkedin-username])**
+* **[LinkedIn](www.linkedin.com/in/anusha-yashadapu-956093317])**
 * **[GitHub](https://github.com/anushayashadapu)**
-* *[Email](mailto:[your-email-address])*
-* *[Add any other social media links, e.g., Twitter]*
+* *[Email](mailto:[anushayashadapu1111@gmail.com])*
+
 
 ---
 
-<p align="center">Made with ❤ by Anushaya</p>
+<p align="center">Made with ❤ by Anu</p>
